@@ -1,0 +1,20 @@
+
+
+.caption {
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+    background-color: #e3e3d5;
+    border: 2px solid black;
+}
+.tab{
+    border: 1px solid black;
+    border-spacing: 15px;
+    background-color: #f5df9b;
+    padding: 5px;
+    border-collapse: collapse;
+}
+.tr th{
+    border:1px solid black;
+    padding: 11px;
+}
